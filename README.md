@@ -1,4 +1,4 @@
-# Lucent-SignUp
+# Lucent-SignUp (ChatGPT)
 
 ![My Screenshot](Images/Image1.png)
 
